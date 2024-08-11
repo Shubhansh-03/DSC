@@ -1,0 +1,2 @@
+# DSC
+MNIST-Fashion NN
